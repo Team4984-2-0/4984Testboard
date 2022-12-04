@@ -1,6 +1,6 @@
 # 4984Testboard
 
-If you get many compiler errors then do these two commands in VS Code
+If you get many compiler errors then do these two commands in VS Code. Brings in libraries.
 
 1) WPILib: Manage Vendor Libraries>
   Select Install new libraries (online)
